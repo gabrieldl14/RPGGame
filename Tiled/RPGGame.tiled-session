@@ -7,6 +7,8 @@
     "expandedProjectPaths": [
         "."
     ],
+    "exportAsImage.useCurrentScale": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "IntroTilemap.tmx": {
             "scale": 2,
@@ -31,8 +33,10 @@
             "scaleInEditor": 5.5
         }
     },
+    "last.exportedFilePath": "C:/Users/gadil/Documents/Coding/RPGGame/Tiled",
     "last.imagePath": "C:/Users/gadil/Downloads/Ekats Public Tiles/Ekat's Public Tiles",
     "map.height": 16,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
     "map.width": 24,
     "openFiles": [

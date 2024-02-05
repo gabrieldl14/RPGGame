@@ -1,4 +1,4 @@
 const images = {
-    map: "../img/maps/TestIsland.png",
-    player: "../img/characters/Character.png"
+    map: "../img/maps/start.png",
+    player: "../img/characters/Block.png"
 }

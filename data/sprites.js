@@ -1,11 +1,20 @@
-let offsetX = 0
-let offsetY = 0
+let mapOffsetX = -320
+let mapOffsetY = -224
+let playerOffsetX = 512 - 64
+let playerOffsetY = 224
 const sprites = {
     map: new Sprite({
         position: {
-            x: offsetX,
-            y: offsetY
+            x: mapOffsetX,
+            y: mapOffsetY
         },
         image: images.map
+    }),
+    player: new Sprite({
+        position: {
+            x: playerOffsetX,
+            y: playerOffsetY
+        },
+        image: images.player
     })
 }
